@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\meutodo\\MeuTodo.csproj": {}
+    "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\MeuTodo\\MeuTodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\meutodo\\MeuTodo.csproj": {
+    "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\MeuTodo\\MeuTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\meutodo\\MeuTodo.csproj",
+        "projectUniqueName": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\MeuTodo\\MeuTodo.csproj",
         "projectName": "MeuTodo",
-        "projectPath": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\meutodo\\MeuTodo.csproj",
+        "projectPath": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\MeuTodo\\MeuTodo.csproj",
         "packagesPath": "C:\\Users\\leonardo.figueiredo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\meutodo\\obj\\",
+        "outputPath": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\MeuTodo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,6 +46,8 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.0, )"
             },

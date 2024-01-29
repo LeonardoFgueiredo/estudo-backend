@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Z2oCVy3VerwMpZV9P7dciTeoJhR8rmx6I7xrMsuBEF7vdD/TMFSCF5UAM3QKL6A3uY4yuZ+6QxMaThdUpwS7Q==",
+  "dgSpecHash": "IJ+fLHAxWnxzjvOfFcoEyu6zHNA4xjp34uTPH7eyJ7rW4eLW8lcJYlIYoviGfdmJ/02RgfkpTMnNSCKtkQiSDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\meutodo\\MeuTodo.csproj",
+  "projectFilePath": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\MeuTodo\\MeuTodo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leonardo.figueiredo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\leonardo.figueiredo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
