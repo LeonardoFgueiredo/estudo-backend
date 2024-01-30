@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\MeuTodo\\MeuTodo.csproj": {}
+    "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\meutodo\\MeuTodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\MeuTodo\\MeuTodo.csproj": {
+    "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\meutodo\\MeuTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\MeuTodo\\MeuTodo.csproj",
+        "projectUniqueName": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\meutodo\\MeuTodo.csproj",
         "projectName": "MeuTodo",
-        "projectPath": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\MeuTodo\\MeuTodo.csproj",
+        "projectPath": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\meutodo\\MeuTodo.csproj",
         "packagesPath": "C:\\Users\\leonardo.figueiredo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\MeuTodo\\obj\\",
+        "outputPath": "C:\\Users\\leonardo.figueiredo\\Desktop\\eu\\backend\\meutodo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
